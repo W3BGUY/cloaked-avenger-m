@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<s:ViewNavigatorApplication xmlns:fx="http://ns.adobe.com/mxml/2009"
+							xmlns:s="library://ns.adobe.com/flex/spark"
+							applicationDPI="320" color="#C0C0C0"
+							firstView="views.textEncrypter_mobileHomeView">
+	<fx:Style source="textEncrypter_mobile.css"/>
+</s:ViewNavigatorApplication>
